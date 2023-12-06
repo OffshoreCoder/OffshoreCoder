@@ -5,8 +5,8 @@
 
 ### 🛠 Skills
 - **Java**
-- **C/C++**
 - **C#**
+- **C/C++**
 - **MySQL/MsSql**
 
 ### 🌐 Connect with me
