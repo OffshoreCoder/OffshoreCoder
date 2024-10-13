@@ -1,7 +1,4 @@
-# Alexandr Breusov
-
-### 🎓 Education 
-- ITMO University, Faculty of Information Technology and Programming.
+# Alexandr
 
 ### 🛠 Skills
 - **Java**
