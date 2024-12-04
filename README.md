@@ -6,7 +6,6 @@
 - **Hibernate**
 - **PostgreSQL && MySQL**
 - **Liquibase**
-- **Yandex**
 
 ### 🎓 Education 
 - ITMO University, Faculty of Information Technology and Programming.
