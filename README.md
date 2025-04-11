@@ -1,4 +1,4 @@
-# Alexandr
+# Aleksandr
 
 ### 🛠 Skills
 - **Java**
